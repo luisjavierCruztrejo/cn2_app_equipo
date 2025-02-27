@@ -3,3 +3,6 @@ Scripts/
 Include/
 pyvenv.cfg
 __pycache__
+venv/
+.venv/
+.env
